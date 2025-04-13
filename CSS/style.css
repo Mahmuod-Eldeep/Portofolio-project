@@ -63,7 +63,7 @@ body {
 
 .home {
 	height: 100vh;
-	background: url("../pc-2.jpg") no-repeat;
+	background: url("../images/pc-2.jpg") no-repeat;
 	background-size: cover;
 	background-position: center;
 	display: flex;
